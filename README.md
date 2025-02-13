@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Litaoge
 - 👀 I’m interested in data analytics and database management system..
+- I have Analytical, critical thinking, Reseach and Problem- solving skills
+-  Eager to learn more to become better in the field...
 - 🌱 I’m currently learning SQL using MySQL and Postgresql...
 - 💞️ I’m looking to collaborate on making real life projects..
 - 📫 How to reach me ermmaculate97@gmail.com..
