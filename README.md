@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Litaoge
+- 👋 Hi, I’m @Imma
 - 👀 I’m interested in data analytics and database management system..
 - I have Analytical, critical thinking, Reseach and Problem- solving skills
 -  Eager to learn more to become better in the field...
